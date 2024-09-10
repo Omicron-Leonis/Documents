@@ -1,0 +1,13 @@
+i = int(input("enter today's temperature in centigrade : "))
+
+if (i <15) : 
+    print ("It's a chill weather")
+    print ("You have to wear thick clothes or jackets")
+
+elif(i <30) : 
+    print ("Today is a moderate weather")
+    print ("You can wear light clothes")
+
+elif (i <50) : 
+    print ("Today is quite hot!!!")
+    print ("Please wear light and comforartable clothes")
